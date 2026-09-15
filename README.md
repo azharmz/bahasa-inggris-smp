@@ -6,7 +6,12 @@
 
 ## 1. Project Purpose
 
-Membangun sistem pembelajaran Bahasa Inggris Kelas VIII SMP yang terstruktur, realistis terhadap kemampuan aktual peserta didik, selaras dengan Capaian Pembelajaran (CP), dan menggunakan buku resmi sebagai sumber utama tanpa menjadikan urutan halaman buku sebagai pacing authority.
+Membangun sistem pembelajaran Bahasa Inggris SMP yang terstruktur, realistis terhadap kemampuan aktual peserta didik, selaras dengan Capaian Pembelajaran (CP), dan menggunakan buku resmi sebagai sumber utama tanpa menjadikan urutan halaman buku sebagai pacing authority.
+
+**Current active implementation:** Kelas VIII SMP.  
+**Current implementation cycle:** Semester Ganjil / Semester 1.
+
+Repo ini tidak dibatasi hanya untuk Semester 1. Semester berikutnya melanjutkan evidence dan state pembelajaran semester sebelumnya. Arsitektur juga tidak boleh menghalangi perluasan ke kelas SMP lain pada masa depan, tetapi pekerjaan saat ini tetap fokus pada Kelas VIII.
 
 Prinsip kerja utama:
 
@@ -14,8 +19,8 @@ Prinsip kerja utama:
 
 ## 2. Teaching Context — CONFIRMED
 
-- Kelas: VIII SMP
-- Semester aktif: Ganjil
+- Current active grade: VIII SMP
+- Current semester: Ganjil / Semester 1
 - 1 JP: 40 menit
 - Total alokasi: 4 JP/pekan
 - Intrakurikuler: 3 JP/pekan = 120 menit
@@ -24,6 +29,24 @@ Prinsip kerja utama:
 - Kondisi penting: pembelajaran sebelumnya belum mengikuti buku siswa secara sistematis.
 - Baseline kemampuan siswa: **NOT YET FORMALLY ASSESSED**. Jangan menganggap percakapan atau impresi informal sebagai baseline final.
 
+### Continuity Contract
+
+Semester adalah **timebox**, bukan pemisah kompetensi. End-of-semester evidence menjadi entry state semester berikutnya:
+
+```text
+Semester 1 baseline
+    ↓
+instruction + assessment
+    ↓
+Semester 1 end-state evidence
+    ↓
+Semester 2 entry state
+    ↓
+Semester 2 instruction + assessment
+```
+
+Jangan mereset baseline hanya karena semester berganti dan jangan menganggap target yang direncanakan otomatis telah dikuasai.
+
 ## 3. Authority Hierarchy
 
 Urutan otoritas proyek:
@@ -31,7 +54,7 @@ Urutan otoritas proyek:
 1. CP/ketentuan kurikulum resmi yang berlaku.
 2. Evidence kemampuan aktual peserta didik.
 3. Keputusan kurikulum/pembelajaran yang telah didokumentasikan di repo.
-4. Buku *English for Nusantara VIII* sebagai primary textbook/resource.
+4. Buku *English for Nusantara VIII* sebagai primary textbook/resource untuk current active grade.
 5. Materi pendukung lain yang secara eksplisit diterima dan dicatat di repo.
 
 Buku adalah sumber utama pembelajaran, **bukan kewajiban pacing halaman demi halaman**. Foundation/bridge instruction boleh dan perlu diberikan bila prerequisite peserta didik belum memadai.
@@ -39,15 +62,15 @@ Buku adalah sumber utama pembelajaran, **bukan kewajiban pacing halaman demi hal
 ## 4. Curriculum Architecture
 
 ```text
-Official CP
+Official CP / Phase Target
     ↓
-Competency Map
+Grade-level Competency Map
     ↓
 Textbook Audit / Map
     ↓
 Prerequisite Map
     ↓
-Student Baseline
+Student Baseline / Current Evidence
     ↓
 Gap Analysis
     ↓
@@ -60,7 +83,11 @@ Assessment / Classroom Evidence
 Progress Review
     ↓
 Next Instructional Decision
+    ↓
+End-state evidence → next semester entry state
 ```
+
+`competency-map.md` dan `prerequisite-map.md` tidak boleh dipecah secara artifisial hanya karena pergantian semester. Semester scope & sequence adalah implementasi berbatas waktu dari competency path yang lebih panjang.
 
 ## 5. Instructional Status Vocabulary
 
@@ -81,30 +108,33 @@ README.md                         ← START HERE / project control
   source-of-truth.md              ← aturan otoritas dan update state
   teaching-principles.md          ← prinsip desain pembelajaran
 02-sources/
-  textbook-audit.md               ← audit authoritative buku utama
+  textbook-audit.md               ← audit authoritative buku current grade
   curriculum-sources.md           ← sumber CP/kurikulum resmi
 03-baseline/
   class-profile.md                ← konteks kelas yang diketahui
-  student-entry-level.md          ← baseline berbasis evidence
+  student-entry-level.md          ← baseline/evidence entry state
   gap-analysis.md                 ← gap prerequisite → target
 04-curriculum-map/
-  competency-map.md               ← CP → kompetensi operasional
-  prerequisite-map.md             ← dependency kemampuan
-  semester-1-scope-sequence.md    ← roadmap semester authoritative
+  competency-map.md               ← CP → kompetensi operasional grade VIII
+  prerequisite-map.md             ← dependency kemampuan lintas semester
+  semester-1-scope-sequence.md    ← roadmap Semester 1 authoritative
+  semester-2-scope-sequence.md    ← dibuat saat Semester 2 direncanakan
 05-teaching/
-  semester-1/                     ← paket pembelajaran per pekan
+  semester-1/                     ← paket pembelajaran Semester 1
+  semester-2/                     ← dibuat saat Semester 2 dimulai
 06-assessment/
-  diagnostic/                     ← asesmen baseline
+  diagnostic/                     ← asesmen baseline/entry-state
   formative/                      ← evidence selama proses
   summative/                      ← asesmen akhir/unit bila diperlukan
 07-cocurricular/
-  semester-1.md                   ← jalur 1 JP kokurikuler
+  semester-1.md                   ← jalur 1 JP kokurikuler Semester 1
+  semester-2.md                   ← dibuat saat Semester 2 direncanakan
 08-progress/
   teaching-log.md                 ← apa yang benar-benar diajarkan
   student-progress.md             ← evidence kemajuan/agregat kelas
 ```
 
-Direktori/file dibuat bertahap saat memang dibutuhkan. Struktur di atas adalah contract organisasi, bukan alasan membuat dokumen kosong.
+Direktori/file dibuat bertahap saat memang dibutuhkan. Struktur di atas adalah contract organisasi, bukan alasan membuat dokumen kosong. File Semester 2 **belum perlu dibuat sekarang**; Repository Map hanya menetapkan jalur ekspansi agar arsitektur Semester 1 tidak menjadi jalan buntu.
 
 ## 7. Authoritative Textbook — CONFIRMED
 
@@ -135,10 +165,12 @@ Buku menggunakan pendekatan berbasis genre dan mengintegrasikan listening, speak
 6. 3 JP intrakurikuler dan 1 JP kokurikuler direncanakan sebagai jalur berbeda tetapi saling mendukung.
 7. Keputusan maju/remediasi harus semakin berbasis evidence kelas, bukan semata estimasi.
 8. Jangan mengarang baseline, mastery, atau teaching history yang belum tercatat/evidenced.
+9. Pergantian semester tidak mereset learning state; evidence semester sebelumnya dibawa ke semester berikutnya.
 
 ## 9. CURRENT STATE
 
-**Phase: P0 — REPOSITORY BOOTSTRAP / SOURCE AUDIT**
+**Active scope: Grade VIII — Semester 1**  
+**Phase: P1 — AUTHORITATIVE SOURCE AUDIT**
 
 Confirmed:
 
@@ -146,18 +178,19 @@ Confirmed:
 - [x] Teaching context dasar ditetapkan.
 - [x] Buku utama kelas VIII teridentifikasi dan tersedia untuk audit.
 - [x] Arsitektur proyek ditetapkan.
+- [x] Arsitektur dibuat semester-continuous: Semester 2 akan meneruskan end-state evidence Semester 1, bukan memulai ulang.
 
 Not yet completed:
 
 - [ ] Ambil dan verifikasi CP Bahasa Inggris Fase D dari sumber resmi yang berlaku.
 - [ ] Audit buku *English for Nusantara VIII* secara sistematis.
-- [ ] Bangun competency map.
+- [ ] Bangun competency map Grade VIII yang dapat melintasi Semester 1–2.
 - [ ] Bangun prerequisite map.
 - [ ] Rancang diagnostic baseline yang ringan dan feasible.
 - [ ] Tetapkan baseline siswa dari evidence.
 - [ ] Gap analysis.
 - [ ] Susun Semester 1 Scope & Sequence.
-- [ ] Susun jalur kokurikuler.
+- [ ] Susun jalur kokurikuler Semester 1.
 - [ ] Bangun weekly teaching packages.
 
 **Penting:** semester scope & sequence belum boleh dianggap final sebelum source audit + prerequisite analysis + baseline/gap analysis cukup memadai.
@@ -185,6 +218,7 @@ Saat diminta mengerjakan proyek ini:
 6. Kerjakan `NEXT ACTION` kecuali user secara eksplisit mengubah prioritas.
 7. Setelah perubahan bermakna, update dokumen terkait dan `CURRENT STATE`/`NEXT ACTION` di README.
 8. Pekerjaan yang mengubah project state belum dianggap selesai jika README menjadi stale.
+9. Saat semester berganti, gunakan end-state evidence semester sebelumnya sebagai entry state; jangan melakukan reset administratif terhadap kemampuan siswa.
 
 ### Minimal prompt untuk chat baru
 
@@ -199,4 +233,5 @@ Git history adalah decision/history trail. Jangan menghapus histori ketidakpasti
 ---
 
 **Last project-state update:** 2026-09-15  
+**Current active scope:** Grade VIII — Semester 1  
 **Current next action:** P1 — Authoritative Source Audit
