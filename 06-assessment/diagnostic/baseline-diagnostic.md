@@ -111,19 +111,14 @@ Lengkapi dengan satu kata yang paling cocok dari kotak.
 5. I ___ rice every morning.  
    a. eat  b. am  c. is
 
-### C2. Make one sentence
+### C2. Complete the sentence
 
-Gunakan kata berikut menjadi satu kalimat.
+Lengkapi menjadi kalimat yang benar.
 
-`he — teacher`
+1. `He ______ a teacher.`
+2. `They ______ football.`
 
-________________________________
-
-`they — play — football`
-
-________________________________
-
-**Evidence target:** usable distinction between `be` predicate and lexical/action verb; not mastery of terminology.
+**Evidence target:** usable distinction between `be` predicate and lexical/action verb; not mastery of terminology. The previous word-string form (`he — teacher` / `they — play — football`) was removed because the second item could be answered merely by deleting separators and did not provide a balanced diagnostic demand.
 
 ---
 
