@@ -161,7 +161,8 @@ Non-blocking open detail:
 - [x] Instrument marked `READY TO ADMINISTER`.
 
 ### Not Yet Completed
-- [ ] Administer diagnostic / collect classroom evidence.
+- [ ] Administer formal diagnostic.
+- [x] Record confirmed teaching history and informal classroom evidence in `08-progress/teaching-log.md`.
 - [ ] Record `student-entry-level.md`.
 - [ ] Gap analysis.
 - [ ] Semester 1 Scope & Sequence.
@@ -185,9 +186,9 @@ Design:
 
 ## 11. NEXT ACTION
 
-**P3 — Administer diagnostic and return evidence.**
+**P3 — Administer formal diagnostic and reconcile it with existing classroom evidence.**
 
-Teacher administers `06-assessment/diagnostic/baseline-diagnostic.md` to the class.
+Teacher administers `06-assessment/diagnostic/baseline-diagnostic.md` to the class. Existing teaching history is already recorded in `08-progress/teaching-log.md`; use it as supporting classroom evidence, not as a substitute for formal G0–G6 diagnostic evidence.
 
 After administration, record at minimum:
 
@@ -227,7 +228,7 @@ Git history is the decision/history trail. When new evidence changes the plan, d
 
 ---
 
-**Last project-state update:** 2026-09-15  
+**Last project-state update:** 2026-09-18  
 **Current active scope:** Grade VIII — Semester 1  
 **Current phase:** P3 — Diagnostic Administration / Evidence Wait  
 **Current next action:** administer `06-assessment/diagnostic/baseline-diagnostic.md` and return G0–G6 evidence.
