@@ -132,6 +132,74 @@ Introduction
 → Possessive Adjectives: my / your / his / her
 ```
 
+## Planned / Next Instructional Sequence
+
+Bagian ini adalah rencana kelanjutan pembelajaran, **bukan klaim bahwa materi sudah diajarkan atau dikuasai**.
+
+### There is / There are
+Status: **PLANNED / NEXT FOUNDATION**
+
+Fokus awal:
+- `There is + singular noun`;
+- `There are + plural noun`;
+- konteks benda-benda di kelas.
+
+Contoh:
+- There is a book on the table.
+- There are two pens in the bag.
+
+Catatan desain:
+- mulai dari benda nyata di kelas;
+- batasi jumlah kosakata baru;
+- gunakan demonstrasi, pilihan jawaban, produksi terbimbing, lalu penggunaan berpasangan.
+
+### Prepositions of Place
+Status: **PLANNED / FOLLOW-UP**
+
+Fokus awal:
+- in
+- on
+- under
+- next to
+- behind
+- in front of
+
+Pola:
+- `Subject + be + preposition + place`;
+- integrasi dengan `There is / There are` setelah pola dasar cukup siap.
+
+Contoh:
+- The book is on the table.
+- The bag is under the chair.
+- The pen is in the bag.
+- The teacher is in front of the students.
+- There is a book on the table.
+- There are two pens in the bag.
+
+Aktivitas yang disarankan:
+- menggunakan benda nyata di kelas;
+- elicitation singkat melalui pertanyaan `Where is ...?`;
+- permainan `Where Is It?`;
+- classroom detective dengan kerja berpasangan.
+
+### Imperatives / Classroom Instructions
+Status: **PROPOSED / LATER FOLLOW-UP**
+
+Kosakata awal:
+- stand up
+- sit down
+- open your book
+- close your book
+- listen
+- look
+- write
+- read
+- repeat
+
+Catatan:
+- gunakan sebagai instruksi kelas yang langsung dipraktikkan, bukan sebagai daftar hafalan panjang;
+- sesuaikan jumlah instruksi dengan energi dan respons siswa.
+
 ## What is NOT yet claimed
 
 Belum boleh dianggap confirmed:
@@ -139,6 +207,7 @@ Belum boleh dianggap confirmed:
 - tingkat keberhasilan tiap pola;
 - distribusi kemampuan kelas;
 - baseline formal G0–G6;
-- readiness penuh untuk naik ke target buku kelas VIII.
+- readiness penuh untuk naik ke target buku kelas VIII;
+- bahwa materi pada bagian `Planned / Next Instructional Sequence` sudah diajarkan.
 
 Gunakan diagnostic formal dan classroom evidence berikutnya untuk menentukan advancement/remediation.
