@@ -93,6 +93,14 @@ README.md
   semester-2-scope-sequence.md    ← later
 05-teaching/
   semester-1/
+    01-introduction.md
+    02-subject-pronouns-to-be.md
+    03-common-adjectives-condition.md
+    04-short-answers.md
+    05-possessive-adjectives.md
+    06-there-is-there-are.md
+    07-prepositions-of-place.md
+    2026-10-14-action-verbs.md
   semester-2/
 06-assessment/
   diagnostic/
@@ -187,9 +195,9 @@ Design:
 ## 11. NEXT ACTION
 
 Recent teaching-state update (2026-10-14):
-- Added `05-teaching/semester-1/2026-10-14-action-verbs.md` as a Foundation/Bridge teaching package.
-- Updated `08-progress/teaching-log.md` with teacher-confirmed coverage of There is/There are, Prepositions of Place, and classroom objects.
-- Action Verbs material is prepared, but delivery and student learning evidence are **not yet confirmed**. Do not mark it as taught/mastered until confirmed.
+- `05-teaching/semester-1/` now contains separate teaching packages for the seven previously logged foundation topics: Introduction, Subject Pronouns + To Be, Common Adjectives (Condition), Short Answers, Possessive Adjectives, There is/There are, and Prepositions of Place.
+- These seven files organize/reconstruct reference materials from the confirmed teaching log; they are not proof that every exercise in each file was historically taught.
+- Added `05-teaching/semester-1/2026-10-14-action-verbs.md` as a Foundation/Bridge teaching package. Delivery and student learning evidence for Action Verbs are **not yet confirmed**. Do not mark it as taught/mastered until confirmed.
 
 **P3 — Administer formal diagnostic and reconcile it with existing classroom evidence.**
 
