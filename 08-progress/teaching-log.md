@@ -94,6 +94,27 @@ Contoh:
 - His bag is black.
 - Your pencil is red.
 
+### There is / There are
+Status: **TAUGHT / FOUNDATION** (teacher-confirmed)
+
+Fokus:
+- `There is + singular noun`;
+- `There are + plural noun`;
+- konteks benda-benda di kelas.
+
+### Prepositions of Place
+Status: **TAUGHT / FOUNDATION** (teacher-confirmed)
+
+Fokus:
+- in
+- on
+- under
+- next to
+- behind
+- in front of
+
+Latihan menggunakan benda/objek di sekitar kelas juga telah dilakukan.
+
 ## Classroom Process Evidence
 
 ### Student level
@@ -130,14 +151,37 @@ Introduction
 → Oral formative check
 → Short Answers
 → Possessive Adjectives: my / your / his / her
+→ There is / There are
+→ Prepositions of Place + objects around the classroom
 ```
+
+## Latest Teaching Material Prepared
+
+### Action Verbs — 14 October 2026
+Status: **MATERIAL PREPARED; DELIVERY/LEARNING EVIDENCE NOT YET CONFIRMED**
+
+Teaching package: `05-teaching/semester-1/2026-10-14-action-verbs.md`
+
+Scope:
+- recognizing common action verbs and their Indonesian meanings;
+- identifying verbs in simple sentences;
+- simple Subject + Verb + Object/Complement examples;
+- examples with I / you / we / they and he / she / it;
+- matching, identifying verbs, completing sentences, writing, speaking, and exit check.
+
+Instructional role: **FOUNDATION / BRIDGE** toward past verbs and Chapter 1 recount. The lesson package does not establish that the class has received the material or mastered the skills; update the status after the teacher confirms delivery and shares classroom evidence.
 
 ## Planned / Next Instructional Sequence
 
 Bagian ini adalah rencana kelanjutan pembelajaran, **bukan klaim bahwa materi sudah diajarkan atau dikuasai**.
 
+### Action Verbs → Base Verb and Past Verb
+Status: **NEXT INSTRUCTIONAL STEP** (subject to student evidence)
+
+Start by checking whether students can recognize common action verbs and use them in simple sentences. If ready, introduce a small set of base-verb/past-verb pairs, such as `play → played`, `watch → watched`, `go → went`, and `win → won`. Do not assume mastery solely because the material was prepared or taught.
+
 ### There is / There are
-Status: **PLANNED / NEXT FOUNDATION**
+Status: **TAUGHT / FOUNDATION** (teacher-confirmed)
 
 Fokus awal:
 - `There is + singular noun`;
@@ -154,7 +198,7 @@ Catatan desain:
 - gunakan demonstrasi, pilihan jawaban, produksi terbimbing, lalu penggunaan berpasangan.
 
 ### Prepositions of Place
-Status: **PLANNED / FOLLOW-UP**
+Status: **TAUGHT / FOUNDATION** (teacher-confirmed)
 
 Fokus awal:
 - in
