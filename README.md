@@ -186,6 +186,11 @@ Design:
 
 ## 11. NEXT ACTION
 
+Recent teaching-state update (2026-10-14):
+- Added `05-teaching/semester-1/2026-10-14-action-verbs.md` as a Foundation/Bridge teaching package.
+- Updated `08-progress/teaching-log.md` with teacher-confirmed coverage of There is/There are, Prepositions of Place, and classroom objects.
+- Action Verbs material is prepared, but delivery and student learning evidence are **not yet confirmed**. Do not mark it as taught/mastered until confirmed.
+
 **P3 — Administer formal diagnostic and reconcile it with existing classroom evidence.**
 
 Teacher administers `06-assessment/diagnostic/baseline-diagnostic.md` to the class. Existing teaching history is already recorded in `08-progress/teaching-log.md`; use it as supporting classroom evidence, not as a substitute for formal G0–G6 diagnostic evidence.
@@ -228,7 +233,7 @@ Git history is the decision/history trail. When new evidence changes the plan, d
 
 ---
 
-**Last project-state update:** 2026-09-18  
+**Last project-state update:** 2026-10-14  
 **Current active scope:** Grade VIII — Semester 1  
 **Current phase:** P3 — Diagnostic Administration / Evidence Wait  
 **Current next action:** administer `06-assessment/diagnostic/baseline-diagnostic.md` and return G0–G6 evidence.
