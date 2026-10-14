@@ -14,7 +14,8 @@ Setelah kegiatan, siswa diharapkan dapat:
 1. mengenali beberapa action verbs umum;
 2. mencocokkan kata kerja dengan arti bahasa Indonesia;
 3. menemukan kata kerja dalam kalimat sederhana;
-4. membuat kalimat sederhana menggunakan action verbs.
+4. membuat kalimat sederhana menggunakan action verbs;
+5. mengenali secara awal bahwa kata kerja pada Simple Present berubah dengan -s/-es setelah he, she, it.
 
 ## 2. What Is an Action Verb?
 
@@ -56,6 +57,60 @@ Pola dasar yang diperkenalkan:
 | It | makes | a sound. | Itu mengeluarkan suara. |
 
 **Catatan guru:** Contoh dengan *it* merujuk pada benda atau hewan. Dalam Simple Present, kata kerja setelah **he, she, it** biasanya mendapat akhiran **-s/-es**. Aturan ini cukup dikenalkan sekilas; tujuan utama pertemuan adalah mengenali kata kerja, bukan menguasai seluruh aturan Simple Present.
+
+
+## 3A. Simple Present: Verb + s/es with He, She, It
+
+Dalam **Simple Present Tense**, jika subjeknya **he, she, it**, atau satu nama orang/hewan/benda, kata kerja biasanya berubah dengan menambahkan **-s** atau **-es**.
+
+Untuk subjek **I, you, we, they**, gunakan kata kerja dasar (*base verb*).
+
+| Subject | Verb | Example | Arti |
+|---|---|---|---|
+| I | eat | I eat rice. | Saya makan nasi. |
+| You | eat | You eat rice. | Kamu makan nasi. |
+| We | eat | We eat rice. | Kami makan nasi. |
+| They | eat | They eat rice. | Mereka makan nasi. |
+| He | eats | He eats rice. | Dia makan nasi. |
+| She | eats | She eats rice. | Dia makan nasi. |
+| It | eats | It eats fish. | Itu makan ikan. |
+
+### Aturan sederhana
+
+**1. Kebanyakan kata kerja: tambahkan -s**
+- eat → eats
+- drink → drinks
+- read → reads
+- play → plays
+- run → runs
+
+**2. Kata kerja yang berakhir dengan -s, -ss, -sh, -ch, -x, atau -o: biasanya tambahkan -es**
+- watch → watches
+- wash → washes
+- pass → passes
+- go → goes
+- do → does
+
+**3. Kata kerja berakhir dengan konsonan + y: ubah y menjadi -ies**
+- study → studies
+- try → tries
+
+Jika sebelum **y** adalah huruf vokal, cukup tambahkan **-s**:
+- play → plays
+- enjoy → enjoys
+
+### Ingat!
+
+- **He plays** football. ✅
+- **She watches** TV. ✅
+- **It goes** fast. ✅
+- **He play** football. ❌
+
+Nama seseorang tunggal juga mengikuti aturan ini:
+- Andi reads a book.
+- Rina studies English.
+
+**Batas materi hari ini:** siswa cukup mengenali pola dan mencoba beberapa contoh. Tidak perlu menghafal semua aturan sekaligus. Fokus utama tetap pada mengenali action verbs dan membuat kalimat sederhana.
 
 ## 4. Subject, Verb, and Object
 
