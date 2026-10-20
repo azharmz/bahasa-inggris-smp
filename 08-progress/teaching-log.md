@@ -94,6 +94,18 @@ Contoh:
 - His bag is black.
 - Your pencil is red.
 
+### Base Verb and Past Verb — 20 October 2026
+Status: **MATERIAL PREPARED; DELIVERY/LEARNING EVIDENCE NOT YET CONFIRMED**
+
+Teaching package: `05-teaching/semester-1/2026-10-20-base-and-past-verbs.md`
+
+Scope:
+- four base/past pairs: play → played, watch → watched, go → went, win → won;
+- simple affirmative sentences with `yesterday`;
+- recognition, matching, guided sentence completion, and a short exit check.
+
+Do not claim the lesson was delivered or that students mastered these forms until the teacher confirms classroom evidence.
+
 ### There is / There are
 Status: **TAUGHT / FOUNDATION** (teacher-confirmed)
 
