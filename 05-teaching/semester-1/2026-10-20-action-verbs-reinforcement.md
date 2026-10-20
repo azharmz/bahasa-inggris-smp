@@ -15,9 +15,11 @@ Setelah kegiatan, siswa diharapkan dapat:
 1. mengenali arti beberapa action verbs;
 2. menemukan kata kerja dalam kalimat pendek;
 3. melengkapi kalimat dengan kata kerja yang sesuai;
-4. membuat atau mengucapkan kalimat sederhana dengan pola **Subject + Verb + Object/Complement**.
+4. membuat atau mengucapkan kalimat sederhana dengan pola **Subject + Verb + Object/Complement**;
+5. menghubungkan nama orang/hewan dengan **he/she/it**;
+6. mengenali pola dasar **he/she/it + verb-s/-es** pada kalimat positif Simple Present.
 
-**Fokus hari ini:** mengenali dan menggunakan kata kerja dasar. Jangan menambahkan past verbs sebagai materi baru pada pertemuan ini.
+**Fokus hari ini:** mengenali dan menggunakan kata kerja dasar, lalu menghubungkannya dengan subject pronouns dan pola dasar verb-s/-es. Jangan menambahkan past verbs sebagai materi baru pada pertemuan ini. Jika siswa masih kesulitan mengenali makna kata kerja, prioritaskan bagian inti dan jadikan latihan -s/-es sebagai penguatan lanjutan.
 
 ## 2. Warm-up — Act and Guess (5 menit)
 
@@ -68,7 +70,7 @@ Contoh:
 - Rudi plays badminton. → **He plays badminton.**
 - The dog eats rice. → **It eats rice.**
 
-**Catatan guru:** Dalam Simple Present, he/she/it biasanya memakai verb + s/es (reads, plays, eats). Cukup gunakan contoh ini sebagai pengingat; jangan membebani siswa dengan seluruh aturan sekaligus.
+**Catatan guru:** Dalam kalimat positif Simple Present, he/she/it biasanya memakai verb + s/es (reads, plays, eats). Bagian berikutnya melatih pola ini secara eksplisit setelah siswa memahami hubungan nama dan pronoun.
 
 **Practice — Replace the name:**
 1. Rina reads a book. → ____ reads a book.
@@ -100,7 +102,42 @@ Arti:
 - They study English. = Mereka belajar bahasa Inggris.
 - I write my name. = Saya menulis nama saya.
 
-Untuk kegiatan hari ini, utamakan subjek I, you, we, they agar fokus pada makna dan susunan kalimat. Contoh he/she/it boleh diulang dari materi sebelumnya, tetapi aturan -s/-es bukan target utama penguatan ini.
+Mulai dengan subjek I, you, we, they untuk membangun kalimat dasar. Setelah itu, bandingkan dengan he/she/it agar siswa melihat perubahan bentuk kata kerja.
+
+## 4A. Mini-Lesson — He/She/It + Verb-s/-es
+
+Ajarkan bagian ini setelah siswa dapat mengenali beberapa action verbs dan memahami bahwa nama dapat diganti dengan pronoun.
+
+| Subject | Base verb | Kalimat |
+|---|---|---|
+| I | play | I play badminton. |
+| Rudi → He | play + s | He plays badminton. |
+| Rina → She | read + s | She reads a book. |
+| The dog → It | eat + s | It eats rice. |
+
+### Pola dasar
+
+- Kebanyakan kata kerja: tambahkan **-s** → open → opens; explain → explains.
+- Kata kerja berakhiran **-sh, -ch, -x**, dan beberapa kata berakhiran **-o**: biasanya tambahkan **-es** → brush → brushes; teach → teaches; mix → mixes; do → does.
+- Ajarkan **do → does** sebagai bentuk khusus yang perlu diingat.
+- Aturan consonant + y → -ies (misalnya cry → cries) dapat diajarkan terpisah; tidak perlu dimasukkan pada pengenalan pertama.
+
+Jangan meminta siswa menghafal semua aturan sekaligus. Mulai dari contoh yang mudah, lalu minta siswa memperhatikan perbedaan **I play** dan **He plays**.
+
+### Practice — Choose the Correct Form
+
+Pilih satu jawaban yang benar.
+
+1. Rudi (play / plays) badminton.
+2. Rina (read / reads) a book.
+3. The dog (eat / eats) rice.
+4. He (brush / brushes) his teeth.
+5. She (teach / teaches) English.
+6. It (mix / mixes) the colors.
+7. He (open / opens) the window.
+8. She (do / does) her homework.
+
+**Kunci:** 1 plays; 2 reads; 3 eats; 4 brushes; 5 teaches; 6 mixes; 7 opens; 8 does.
 
 ## 5. Practice A — Match the Verb and Meaning (6 menit)
 
@@ -189,12 +226,12 @@ Ganti mode aktivitas secara berkala. Hindari menghabiskan waktu hanya dengan rep
 
 ## 11. Jika Hari Ini 3 JP (120 Menit)
 
-Jangan memperkenalkan banyak grammar baru. Gunakan waktu tambahan untuk latihan dengan cara berbeda dan bukti belajar yang lebih baik.
+Jangan memperkenalkan past verbs. Gunakan waktu tambahan untuk menghubungkan nama → pronoun → verb-s/-es, lalu latihan dengan cara berbeda dan bukti belajar yang lebih baik.
 
 | Blok | Durasi | Kegiatan |
 |---|---:|---|
 | JP 1 | 40 menit | Materi inti dan exit check |
-| JP 2 | 40 menit | Permainan kartu: pasangkan verb dengan arti; kelompokkan kata berdasarkan gerakan, belajar, atau kegiatan di rumah; lanjutkan ke susun kalimat |
+| JP 2 | 40 menit | Permainan kartu: pasangkan verb dengan arti; kelompokkan kata berdasarkan gerakan, belajar, atau kegiatan di rumah; lanjutkan ke susun kalimat dan latihan he/she/it + verb-s/-es |
 | JP 3 | 40 menit | Pair work: siswa memilih gambar/kegiatan, mengucapkan kalimat “I …”; teman mencatat atau menggambar kegiatan; cek individual singkat |
 
 Jeda atau selingi aktivitas bergerak jika siswa tampak lelah. Jangan mengulang seluruh 120 menit dengan drilling serentak.
@@ -231,6 +268,7 @@ Gunakan evidence, bukan sekadar selesainya materi.
 
 - Jika banyak siswa belum mengenali arti kata kerja, ulangi kosakata melalui gerakan, gambar, dan pilihan jawaban.
 - Jika siswa mengenali kata kerja tetapi belum bisa membuat kalimat, lanjutkan latihan Subject + Verb + Object/Complement.
-- Jika siswa sudah dapat mengenali kata kerja dan membuat beberapa kalimat sederhana dengan sedikit bantuan, barulah pertimbangkan pengenalan base verb → past verb dalam pertemuan berikutnya.
+- Jika siswa sudah dapat mengenali kata kerja dan membuat beberapa kalimat sederhana dengan sedikit bantuan, lanjutkan penguatan he/she/it + verb-s/-es bila belum stabil.
+- Jika siswa sudah mengenali kata kerja, mengganti nama dengan pronoun, dan memilih bentuk -s/-es dengan cukup tepat, barulah pertimbangkan pengenalan base verb → past verb dalam pertemuan berikutnya.
 
 **Belum ada klaim bahwa materi ini telah diajarkan atau dikuasai.** Perbarui teaching log setelah guru mengonfirmasi pelaksanaan dan memberikan ringkasan hasil kelas.
