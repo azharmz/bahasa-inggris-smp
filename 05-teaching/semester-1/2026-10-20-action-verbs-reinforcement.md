@@ -53,6 +53,30 @@ Gunakan gerakan, gambar, atau benda nyata. Tidak perlu meminta siswa menghafal 2
 
 Guru memilih sekitar 8–10 kata sesuai respons siswa. Tabel lengkap menjadi referensi; tidak semua kata harus dikuasai pada hari yang sama.
 
+## 3A. Names and Subject Pronouns — Review
+
+Nama orang atau hewan dapat diganti dengan subject pronoun.
+
+| Name / Noun | Pronoun | Keterangan |
+|---|---|---|
+| Rina | she | seorang perempuan |
+| Rudi | he | seorang laki-laki |
+| The dog | it | seekor hewan (contoh dasar) |
+
+Contoh:
+- Rina reads a book. → **She reads a book.**
+- Rudi plays badminton. → **He plays badminton.**
+- The dog eats rice. → **It eats rice.**
+
+**Catatan guru:** Dalam Simple Present, he/she/it biasanya memakai verb + s/es (reads, plays, eats). Cukup gunakan contoh ini sebagai pengingat; jangan membebani siswa dengan seluruh aturan sekaligus.
+
+**Practice — Replace the name:**
+1. Rina reads a book. → ____ reads a book.
+2. Rudi plays badminton. → ____ plays badminton.
+3. The dog eats rice. → ____ eats rice.
+
+**Kunci:** 1 She; 2 He; 3 It.
+
 ## 4. Build a Simple Sentence
 
 Pola kalimat dasar:
