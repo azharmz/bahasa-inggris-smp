@@ -102,6 +102,7 @@ README.md
     07-prepositions-of-place.md
     2026-10-14-action-verbs.md
     2026-10-20-action-verbs-reinforcement.md
+    2026-10-20-he-she-it-verb-s-es-practice.md
     2026-10-20-base-and-past-verbs.md
     2026-10-20-base-and-past-verbs.md
   semester-2/
@@ -202,6 +203,7 @@ Recent teaching-state update (2026-10-14):
 - These seven files organize/reconstruct reference materials from the confirmed teaching log; they are not proof that every exercise in each file was historically taught.
 - Added `05-teaching/semester-1/2026-10-14-action-verbs.md` as a Foundation/Bridge teaching package. Delivery and student learning evidence for Action Verbs are **not yet confirmed**. Do not mark it as taught/mastered until confirmed.
 - Added `05-teaching/semester-1/2026-10-20-action-verbs-reinforcement.md` as the recommended next lesson: reinforce verb meaning, identify verbs in short sentences, complete sentences, and produce simple sentences before advancing to past verbs. Delivery/evidence are not yet confirmed.
+- Added `05-teaching/semester-1/2026-10-20-he-she-it-verb-s-es-practice.md` as a separate practice sheet for choosing verb forms with he/she/it, using new examples and an answer key. It includes -s, -es, and the special form do → does; delivery/evidence are not yet confirmed.
 - Added `05-teaching/semester-1/2026-10-20-base-and-past-verbs.md` as a later optional step; do not use it as the next lesson until Action Verb readiness is supported by classroom evidence.
 - Added `05-teaching/semester-1/2026-10-20-base-and-past-verbs.md` as the next Foundation/Bridge package, introducing four base/past pairs (play/played, watch/watched, go/went, win/won). Delivery and student learning evidence are **not yet confirmed**.
 
