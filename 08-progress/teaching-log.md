@@ -167,6 +167,13 @@ Introduction
 → Prepositions of Place + objects around the classroom
 ```
 
+### Action Verbs Reinforcement — 20 October 2026
+Status: **MATERIAL PREPARED; DELIVERY/LEARNING EVIDENCE NOT YET CONFIRMED**
+
+Teaching package: `05-teaching/semester-1/2026-10-20-action-verbs-reinforcement.md`
+
+Instructional decision: reinforce the meaning of action verbs, verb identification, and simple Subject + Verb + Object/Complement sentences before introducing past verbs. The previously prepared base/past-verb package is a possible later step, contingent on classroom evidence.
+
 ## Latest Teaching Material Prepared
 
 ### Action Verbs — 14 October 2026
